@@ -15,7 +15,7 @@ Pittsburgh, PA 15217
 # Solution:
 
 App Title:
-## Holly's Place Finder -- Your Location Searching App
+## Shengxiang's Place Finder -- Your Location Searching App
 
 #### Top Main Features:
 
